@@ -1,0 +1,17 @@
+#################################################################################################
+AnjoLabDownloadManager - Release Notes
+Data: 20/01/2020
+Descrição: este é o arquivo que contém as notas de versão referentes ao AnjoLabDownloadManager.
+           Ele deve ser sempre editado de cima para baixo, ou seja, versão mais nova dee estar
+           sempre no topo do arquivo.
+#################################################################################################
+
+
+_________________________________________________________________________________________________
+## Versão 0.1 ##
+
+1. Implantação das bibliotecas
+Tipo: Feature
+Data: 20/01/2020
+Arquivos relacionados: platformio.ini
+_________________________________________________________________________________________________
